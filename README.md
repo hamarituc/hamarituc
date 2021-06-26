@@ -2,12 +2,16 @@
 - 👀 I’m interested in
   * :radio: Amateur Radio
   * :telescope: Astronomy
-  * :airplane: aviation
+  * :airplane: Aviation
+  * :lock_with_ink_pen: Cryptography
+  * :electric_plug: Electronic Engineering
   * :globe_with_meridians: Geographic Data Processing
+  * :penguin: Linux
   * Microcontrollers
   * Near Field Communication
-  * :penguin: Linux
   * :rocket: Space
+  * :satellite: Satellites
+  * Typesetting
 - 🌱 I’m currently learning ...
   * Chef
   * :diamonds: Ruby
