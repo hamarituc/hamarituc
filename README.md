@@ -3,6 +3,7 @@
   * :radio: Amateur Radio
   * :telescope: Astronomy
   * :airplane: Aviation
+  * :mag: Computer Forensics, Reverse Engineering
   * :lock_with_ink_pen: Cryptography
   * :electric_plug: Electronic Engineering
   * :globe_with_meridians: Geographic Data Processing
