@@ -17,6 +17,7 @@
   * Chef
   * :diamonds: Ruby
 - 💞️ I’m looking to collaborate on ...
+  * Gentoo Linux
 - 📫 How to reach me ...
 
 <!---
